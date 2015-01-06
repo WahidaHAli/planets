@@ -1,2 +1,4 @@
 Mars is the red planet.
 It is cold and dry.
+The name "martian" comes from the idea that there may be life on other planets, Mars is the most likely
+
